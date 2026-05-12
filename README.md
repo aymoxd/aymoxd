@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aymane! I'm a passionate frontend developer and freelancer, focused on creating modern, smooth, and responsive websites. I love learning new technologies like Tailwind, JavaScript, and Vue.js, and I enjoy building projects that solve real problems and impress users.
+Hi, I'm Aymane! I'm a passionate FullStack developer and freelancer, focused on creating modern, smooth, and responsive websites. I love learning new technologies like Tailwind, JavaScript , php , and I enjoy building projects that solve real problems and impress users.
 
 
 # 💻 Tech Stack:
