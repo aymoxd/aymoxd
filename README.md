@@ -48,17 +48,7 @@ const aymane = {
 
 ---
 
-## projects
 
-<div align="center">
-
-| &nbsp; | Project | What it is | Stack |
-|:--:|--------|------------|-------|
-| 🛒 | **[E-Commerce](https://github.com/aymoxd/e-commerce)** | Online store with product listings & cart | JS · CSS · HTML |
-| 🍣 | **[Samurai Restaurant](https://github.com/aymoxd/samurai)** | Landing page for a Japanese restaurant | HTML · CSS |
-| ✅ | **[Todo List](https://github.com/aymoxd/Todo_List)** | Clean task manager | JavaScript |
-
-</div>
 
 ---
 
